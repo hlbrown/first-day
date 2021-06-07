@@ -1,3 +1,25 @@
+# code refractor assignment
+
+Take existing code and improve it to meet the standards/expectations.
+
+Editing to replicate ( assets\images\01-html-css-git-homework-demo.png )
+
+**reminder** the site does not currently follow a mobile first approach and is designed to be viewed on a desktop or equivelant screen size. Current expectations will not include mobile-first at this time.
+
+** Make the site accessible
+
+
+
+
+
+
+
+
+
+
+
+
+
 # first-day
 # 01 HTML, CSS, and Git: Code Refactor
 
