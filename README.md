@@ -2,7 +2,8 @@
 
 Take existing code and improve it to meet the standards/expectations.
 
-Editing to replicate ( assets\images\01-html-css-git-homework-demo.png )
+**syntax to link a picture in a readme file** [Example-Page](assets\images\01-html-css-git-homework-demo.png)
+
 
 **reminder** the site does not currently follow a mobile first approach and is designed to be viewed on a desktop or equivelant screen size. Current expectations will not include mobile-first at this time.
 
